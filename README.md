@@ -135,8 +135,10 @@ c.close()
 ## OUTPUT -RARP
 
 ### server
+<img width="857" height="358" alt="image" src="https://github.com/user-attachments/assets/0ddad6df-63f3-4b61-af46-45bca02dad7b" />
 
 ### client
+<img width="857" height="358" alt="image" src="https://github.com/user-attachments/assets/2bffedb4-baa0-4133-b33c-1a386515eaac" />
 
 
 ## RESULT
